@@ -1,2 +1,3 @@
-# craigslist-redesign
-Craigslist Redesign HW FEW22
+# in-class-git
+
+Example of Github
